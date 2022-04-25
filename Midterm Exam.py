@@ -1,7 +1,7 @@
 from tkinter import *
 window = Tk()
 
-window.geometry("600x500+30+20")
+window.geometry("500x400+30+20")
 window.title("Midterms in OOP")
 
 def your_name():
